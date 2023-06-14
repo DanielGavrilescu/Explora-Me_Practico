@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Explora-Me</string>
+    <string name="description_image_foto">Imagen del sitio</string>
+    <string name="description_aniadirLugar">Añade un lugar nuevo</string>
+</resources>
